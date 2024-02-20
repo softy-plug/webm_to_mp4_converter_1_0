@@ -1,0 +1,10 @@
+╭━━╮╱╭━┳╮╱╱╱╭━╮╱╱╱╱╱╱
+┃━━╋━┫━┫╰┳┳╮┃╋┣╮╭┳┳━╮
+┣━━┃╋┃╭┫╭┫┃┃┃╭┫╰┫┃┃╋┃
+╰━━┻━┻╯╰━╋╮┃╰╯╰━┻━╋╮┃
+╱╱╱╱╱╱╱╱╱╰━╯╱╱╱╱╱╱╰━╯
+softy_plug
+
+webm_to_mp4_converter_1_0 - utility for convert .webm video files to .mp4 using ffmpeg console
+
+.exe file and repository must be in same directory with video files
